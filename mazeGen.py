@@ -1,5 +1,5 @@
 import random,pygame,sys,time
-#from raycasting import Boundary
+# from raycasting import Boundary
 sys.setrecursionlimit(30000)
 
 GRID_SIZE = 60
